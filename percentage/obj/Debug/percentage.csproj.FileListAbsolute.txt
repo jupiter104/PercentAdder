@@ -1,0 +1,15 @@
+C:\Users\Debashis\source\repos\percentage\percentage\bin\Debug\percentage.exe.config
+C:\Users\Debashis\source\repos\percentage\percentage\bin\Debug\percentage.exe
+C:\Users\Debashis\source\repos\percentage\percentage\bin\Debug\percentage.pdb
+C:\Users\Debashis\source\repos\percentage\percentage\obj\Debug\percentage.csprojAssemblyReference.cache
+C:\Users\Debashis\source\repos\percentage\percentage\obj\Debug\MainWindow.g.cs
+C:\Users\Debashis\source\repos\percentage\percentage\obj\Debug\App.g.cs
+C:\Users\Debashis\source\repos\percentage\percentage\obj\Debug\percentage_MarkupCompile.cache
+C:\Users\Debashis\source\repos\percentage\percentage\obj\Debug\percentage_MarkupCompile.lref
+C:\Users\Debashis\source\repos\percentage\percentage\obj\Debug\MainWindow.baml
+C:\Users\Debashis\source\repos\percentage\percentage\obj\Debug\percentage.g.resources
+C:\Users\Debashis\source\repos\percentage\percentage\obj\Debug\percentage.Properties.Resources.resources
+C:\Users\Debashis\source\repos\percentage\percentage\obj\Debug\percentage.csproj.GenerateResource.cache
+C:\Users\Debashis\source\repos\percentage\percentage\obj\Debug\percentage.csproj.CoreCompileInputs.cache
+C:\Users\Debashis\source\repos\percentage\percentage\obj\Debug\percentage.exe
+C:\Users\Debashis\source\repos\percentage\percentage\obj\Debug\percentage.pdb
